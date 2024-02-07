@@ -3,6 +3,8 @@
 (http://coffcer.github.io/vue-chat/)
 ==================================================
 
+---------------------
+
 
 <img width="600" src="https://github.com/Coffcer/vue-chat/blob/master/intro.jpg">
 
